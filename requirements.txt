@@ -1,0 +1,5 @@
+selene == 2.0.0rc4
+openpyxl
+pytest == 7.4.3
+requests
+pypdf2
